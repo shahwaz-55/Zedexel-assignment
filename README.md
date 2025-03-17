@@ -18,7 +18,7 @@ Vercel: Deployment platform for hosting the project.
 
 Live Demo
 You can view the live version of the project here:
-https://zedexel-assignment-ten.vercel.app/ - Live Demo
+https://zedexel-assignments.vercel.app/ - Live Demo
 
 Installation
 To get a local copy of the project up and running, follow these steps:
