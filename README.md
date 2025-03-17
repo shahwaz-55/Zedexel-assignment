@@ -32,7 +32,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/shahwaz55s-projects/zedexel-assignment.git
+git clone https://github.com/shahwaz-55/Zedexel-assignment
 Navigate into the project directory:
 
 bash
